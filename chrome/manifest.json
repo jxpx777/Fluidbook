@@ -1,0 +1,15 @@
+{
+	"manifest_version" : 2,
+	"name": "Fluidbook - Browse Facebook in a dedicated app",
+	"version": "0.0.0.0",
+	"description": "Fluidbook recognizes when you're visiting Facebook and redirects the request to Choosy for routing to your Fluid app. For more information, see http://www.engadget.com/2014/06/16/how-to-make-a-fluid-app-for-facebook-to-protect-your-online-priv/",
+
+	"author": "Jamie Phelps",
+	"background": {
+		"scripts": [ "chrome.js" ]
+	},
+	"homepage_url": "https://github.com/jxpx777/fluidbook",
+	"incognito": "spanning",
+	"permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"],
+	"short_name": "Fluidbook"
+}
