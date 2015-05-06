@@ -13,7 +13,7 @@ opening in your dedicated Facebook Fluid app.
 This extension uses the `x-choosy://` URL scheme to open the URL in Choosy. The first time this occurs in Chrome, 
 you might see a prompt asking how you'd like to handle that situation. To make sure things go smoothly, you can 
 choose to open a Choosy URL outside of this extension first and tell Chrome to always handle them the same way.
-Here's a nice URL you can use: [x-choosy://open/https://agilebits.com/onepassword][]
+Here's a nice URL you can use: [x-choosy://open/https://agilebits.com/onepassword](x-choosy://open/https://agilebits.com/onepassword)
 
 [Fluid]: http://fluidapp.com
 [Choosy]: http://www.choosyosx.com "Forget the default browser, Choosy opens links in the right browser."
