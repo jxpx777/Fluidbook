@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Jamie Phelps</string>
 	<key>Builder Version</key>
-	<string>10600.5.17</string>
+	<string>10600.6.3</string>
 	<key>CFBundleDisplayName</key>
 	<string>Fluidbook</string>
 	<key>CFBundleIdentifier</key>
@@ -26,6 +26,8 @@
 		<key>Scripts</key>
 		<dict/>
 	</dict>
+	<key>Description</key>
+	<string>Open Facebook links in Fluid app via Choosy</string>
 	<key>DeveloperIdentifier</key>
 	<string>2BUA8C4S2C</string>
 	<key>ExtensionInfoDictionaryVersion</key>

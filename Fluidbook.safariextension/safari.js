@@ -7,7 +7,6 @@ function loadFacebookRequestsInFluidApp(event) {
 		var activeTab = activeWindow.activeTab;
 		if (!activeTab) { return; }
 		activeTab.url = "x-choosy://open/" + (event.url || "https://facebook.com");
-		setTimeout(function(){activeWindow.activeTab.close()}, 500);
 		return false;
 	}
 }
